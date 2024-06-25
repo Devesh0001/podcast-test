@@ -1,3 +1,6 @@
+# Open codespacer
+[![Open new codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/Devesh0001/podcast-test)
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
